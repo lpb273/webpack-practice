@@ -19,6 +19,7 @@
     "@babel/runtime-corejs3": "^7.14.7"
   },
   "dependencies": {
-    "core-js": "3"
+    "core-js": "3",
+    "echarts-liquidfill": "2.0.6"
   }
 }
